@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Agios</h1>
-  - MEng in Computer Engineering
-  - Master's Degree in Data Science 
-  - computer science,  programming, computer engineering,
-  - Data analysis, machine learning, and data visualization 
+- MEng in Computer Engineering
+- Master's Degree in Data Science 
+- computer science,  programming, computer engineering,
+- Data analysis, machine learning, and data visualization 
 <h3 Passionate about using data-driven approaches to develop effective solutions for a wide range of problems and drive business growth.</h3>
 
 <h3 align="left">Connect with me:</h3>
