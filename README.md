@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Agios</h1>
-<h3 align="center"
+<h3 
   - MEng in Computer Engineering
   - Master's Degree in Data Science 
   - computer science,  programming, computer engineering,
